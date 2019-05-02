@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Clicky-Game/static/css/main.e6d80394.chunk.css",
+    "main.js": "/Clicky-Game/static/js/main.e6f09d38.chunk.js",
+    "main.js.map": "/Clicky-Game/static/js/main.e6f09d38.chunk.js.map",
+    "runtime~main.js": "/Clicky-Game/static/js/runtime~main.012bace8.js",
+    "runtime~main.js.map": "/Clicky-Game/static/js/runtime~main.012bace8.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/Clicky-Game/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/Clicky-Game/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/Clicky-Game/index.html",
+    "precache-manifest.0201d13d6d9404b74795af24af50c6db.js": "/Clicky-Game/precache-manifest.0201d13d6d9404b74795af24af50c6db.js",
+    "service-worker.js": "/Clicky-Game/service-worker.js",
+    "static/css/main.e6d80394.chunk.css.map": "/Clicky-Game/static/css/main.e6d80394.chunk.css.map",
+    "static/media/style.css": "/Clicky-Game/static/media/Saiyan-Sans.c1f81144.ttf"
+  }
+}
