@@ -1,0 +1,12 @@
+.holder {
+  height: 100%;
+  overflow: hidden;
+  text-align: center;
+  background:#6CADDC;
+  width: 100%;
+  display: contents;
+}
+
+.holder > .img {
+  border-style: inset;
+}

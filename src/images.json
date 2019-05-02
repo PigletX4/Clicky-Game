@@ -1,0 +1,72 @@
+[
+  {
+    "id":1,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/5/5b/Gokusteppingoutofaspaceship.jpg/revision/latest/top-crop/width/200/height/150?cb=20150325220848", 
+    "clicked": false
+  },
+  {
+    "id":2,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/2/25/Vegeta_DBZ_Ep_222_002.png/revision/latest/top-crop/width/200/height/150?cb=20170921025547" , 
+    "clicked": false
+  },
+  {
+    "id":3,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/8/83/Frieza_DBZ_Ep_85_002v2.png/revision/latest/top-crop/width/200/height/150?cb=20170920193805" , 
+    "clicked": false
+  },
+  {
+    "id":4,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/e/e1/Base_gogeta.jpg/revision/latest/top-crop/width/200/height/150?cb=20181129154755" , 
+    "clicked": false
+  },
+  {
+    "id":5,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/3/33/Jiren1.png/revision/latest/top-crop/width/200/height/150?cb=20170723224647" , 
+    "clicked": false
+  },
+  {
+    "id":6,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/9/91/SSJ4_20.jpg/revision/latest/top-crop/width/200/height/150?cb=20160721212951" , 
+    "clicked": false
+  },
+  {
+    "id":7,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/0/0c/CaptainGinyuNV.png/revision/latest/top-crop/width/200/height/150?cb=20100424151802" , 
+    "clicked": false
+  },
+  {
+    "id":8,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/0/05/Winnie_the_Pooh_Beast_Mode.png/revision/latest/top-crop/width/200/height/150?cb=20160118134807" , 
+    "clicked": false
+  },
+  {
+    "id":9,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/6/63/Survival_Arc_Android_17_%281%29.jpg/revision/latest/top-crop/width/200/height/150?cb=20170417164025" , 
+    "clicked": false
+  },
+  {
+    "id":10,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/5/56/Bardock_-_Bardock_Father_of_Goku_-_001.png/revision/latest/top-crop/width/200/height/150?cb=20190202165031" , 
+    "clicked": false
+  },
+  {
+    "id":11,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/9/9f/989.png/revision/latest/top-crop/width/200/height/150?cb=20110222004337" , 
+    "clicked": false
+  },
+  {
+    "id":12,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/f/f0/Krillin_-_Bojack_Unbound_-_001.png/revision/latest/top-crop/width/200/height/150?cb=20180823012728" , 
+    "clicked": false
+  },
+  {
+    "id":13,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/3/30/Master_Roshi_angry.jpg/revision/latest/top-crop/width/200/height/150?cb=20110927132935" , 
+    "clicked": false
+  },
+  {
+    "id":14,
+    "image": "https://vignette.wikia.nocookie.net/dragonball/images/3/3a/HitHeroesEpisode7.png/revision/latest/top-crop/width/200/height/150?cb=20190110103304" , 
+    "clicked": false
+  }
+]
